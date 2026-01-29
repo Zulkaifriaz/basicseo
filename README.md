@@ -92,7 +92,7 @@ The plugin focuses on **transparency, user control, and WordPress-native behavio
 For support, please contact:
 - Email: mail@zulkaif.com
 - Website: https://zulkaif.com/
-- Plugin URI: https://zulkaif.com/basicseo/
+- Plugin URI: https://zulkaif.com/basicseo.html
 
 ## Author
 
