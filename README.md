@@ -1,11 +1,11 @@
 **This Plugin has to be released publically yet.**
-# BasicSeo
+# Zulkaif SEO File Manager
 
 A manual SEO file manager for WordPress. Generate and control sitemaps, robots.txt, ads.txt, and other essential SEO files with full transparency and no silent automation.
 
 ## Description
 
-**BasicSeo** is a lightweight, manual-control WordPress SEO utility plugin designed to help site owners **generate, preview, and manage essential SEO-related files** without automation side effects.
+**SEO File Manager** is a lightweight, manual-control WordPress SEO utility plugin designed to help site owners **generate, preview, and manage essential SEO-related files** without automation side effects.
 
 The plugin focuses on **transparency, user control, and WordPress-native behavior**, avoiding silent overrides and respecting existing plugins, files, and configurations.
 
@@ -22,7 +22,7 @@ The plugin focuses on **transparency, user control, and WordPress-native behavio
 
 1. Upload the `basicseo` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Navigate to **BasicSeo** in your WordPress admin menu
+3. Navigate to **Zulkaif Seo** in your WordPress admin menu
 4. Configure your settings and generate your sitemap
 
 ## Features in Detail
@@ -63,21 +63,21 @@ The plugin focuses on **transparency, user control, and WordPress-native behavio
 
 ### Generate a Sitemap
 
-1. Go to **BasicSeo > Sitemaps**
+1. Go to **Zulkaif SEO > Sitemaps**
 2. Configure which content types to include
 3. Click **Generate Sitemap**
 4. Submit your sitemap URL to search engines
 
 ### Edit Robots.txt
 
-1. Go to **BasicSeo > Robots.txt**
+1. Go to **Zulkaif SEO > Robots.txt**
 2. Add your custom rules in the editor
 3. Configure sitemap reference
 4. Preview before saving
 
 ### Manage Ads.txt
 
-1. Go to **BasicSeo > Ads.txt**
+1. Go to **Zulkaif SEO > Ads.txt**
 2. Add entries provided by your ad networks
 3. Choose between entry manager or raw editor
 4. Save settings
@@ -92,7 +92,7 @@ The plugin focuses on **transparency, user control, and WordPress-native behavio
 For support, please contact:
 - Email: mail@zulkaif.com
 - Website: https://zulkaif.com/
-- Plugin URI: https://zulkaif.com/basicseo.html
+- Plugin URI: https://zulkaif.com/seo-file-manager.html
 
 ## Author
 
